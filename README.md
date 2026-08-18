@@ -1,6 +1,7 @@
 # Learning GitHub
 Upskilling Workshop about GitHub - August 2026
 
+Testing a branch
 ## Welcome!
 Thank you for reading this ReadMe file. We'll be experimenting with different features in GitHub.
 
